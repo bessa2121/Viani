@@ -94,8 +94,6 @@ Código
 - [ ] Criar CRUD de produtos
 - [ ] Implementar carrinho de compras
 - [ ] Integrar gateway de pagamento (ex: Stripe, PayPal)
-- [ ] Deploy
-
 ---
 
 ## 👨‍💻 Autor
